@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/task_back_to_list"
+        android:title="@string/back_to_list"/>
+    <item android:id="@+id/mark_completed"
+        android:title="@string/mark_completed"/>
+    <item android:id="@+id/delete_task"
+        android:title="@string/delete_task"/>
+</menu>
