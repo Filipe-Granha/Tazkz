@@ -14,7 +14,7 @@ Download files from this repo.</br>
 ### Deployment
 
 Open project in Android Studio.</br>
-At the time of writting (October 2017), if you're using OS Sierra 10.13 you might need to install HAXM manually.
+At the time of writing (November 2017), if you're using OS Sierra 10.13 you might need to install HAXM manually.
 
 ### Built With
 
@@ -26,4 +26,4 @@ Carlos Filipe
 
 ### Acknowledgments
 
-All at CodeClan, instructors, staff and students alike, a big thank you for all your help and support!
+All at CodeClan, instructors, staff and students alike, a big thank you for all your help and support.
